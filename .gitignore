@@ -1,0 +1,20 @@
+# Ignore build folders
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+#  To ignore all JSON files:
+*.json
+
+# To ignore config.proprties
+config.properties
+
+
+# Ignore entire folder
+test-output-result/
+test-output/
+testdata/
